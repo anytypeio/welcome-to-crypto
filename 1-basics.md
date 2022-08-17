@@ -2,6 +2,10 @@
 
 Very basic list to start with. 
 
+## Notable papers
+* [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html)
+* [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+
 ## Ethereum
 * [Ethereum.org Learn - start here](https://ethereum.org/en/learn/) 
 * [Awesome blockchain - curated list](https://github.com/yjjnls/awesome-blockchain)

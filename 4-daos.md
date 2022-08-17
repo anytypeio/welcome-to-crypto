@@ -4,6 +4,8 @@
 * [Incentive Design & Tooling for DAOs (by Aragon)](https://blog.aragon.org/incentive-design-tooling-for-daos/)
 * [DAO tooling](https://docs.google.com/spreadsheets/d/1YRfIhcckhdNi9xSaCpCIDc2VV5HkprLlnp7lbTh5Txk/edit#gid=464771811)
 * [How to DAO course by DAOHaus](https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ/edit)
+* [DAOs: Absorbing the Internet](https://www.readthegeneralist.com/briefing/dao)
+* [Should your next company be a DAO](https://www.coss.community/cossc/should-your-next-company-be-a-dao-2o44)
 
 ## Frameworks
 * [Compound DAO](https://compound.finance/governance)
@@ -17,3 +19,5 @@
 
 ## Legal
 * [DAO Legal Matrix](https://daos.paradigm.xyz/)
+* [a16z framework p1](https://a16zcrypto.com/wp-content/uploads/2022/06/dao-legal-framework-part-1.pdf)
+* [a16z framework p2](https://a16zcrypto.com/wp-content/uploads/2022/06/dao-legal-framework-part-2.pdf)

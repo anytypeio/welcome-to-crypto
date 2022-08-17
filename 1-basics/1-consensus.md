@@ -1,6 +1,10 @@
 
 # Consensus Algorithms
 
+## BGP
+[Byzantine generals problem](https://en.wikipedia.org/wiki/Byzantine_fault)
+
+## What "Consensus" is?
 [Great video by Anytype - Consensus, pt.1](https://www.youtube.com/watch?v=WsvmbzouSzE):
 ![Timeline](s1.png?raw=true "Timeline")
 
