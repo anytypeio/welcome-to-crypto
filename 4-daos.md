@@ -21,3 +21,4 @@
 * [DAO Legal Matrix](https://daos.paradigm.xyz/)
 * [a16z framework p1](https://a16zcrypto.com/wp-content/uploads/2022/06/dao-legal-framework-part-1.pdf)
 * [a16z framework p2](https://a16zcrypto.com/wp-content/uploads/2022/06/dao-legal-framework-part-2.pdf)
+* [Legal Wrappers and DAOs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123737)
