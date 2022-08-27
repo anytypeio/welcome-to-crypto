@@ -11,3 +11,5 @@
 Finance.
 
 * [Economics Design Youtube](https://www.youtube.com/channel/UC-o87lCF9HaEuj0R-3VT1yg) Lisa JY Tan’s channel on tokenomics. She’s also authored Economics and Math of Token Engineering and DeFi : Fundamentals of Token Economics.
+
+* [Treasury Management: A Guide to Navigating Downturns](https://a16zcrypto.com/treasury-management-guide/)
