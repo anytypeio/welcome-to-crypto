@@ -6,6 +6,10 @@ Very basic list to start with.
 * [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html)
 * [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 
+## Web3
+* [Web 3 by Vastrik](https://vas3k.ru/blog/web3/)
+* [Unstoppable Web by Vastrik](https://vas3k.ru/blog/unstoppable_web/)
+
 ## Ethereum
 * [Ethereum.org Learn - start here](https://ethereum.org/en/learn/) 
 * [Awesome blockchain - curated list](https://github.com/yjjnls/awesome-blockchain)
