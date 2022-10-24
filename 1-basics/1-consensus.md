@@ -71,3 +71,5 @@ In recent years, a compromise approach, called proof of stake, has emerged. In t
 A proof-of-stake consensus protocol allows the access structure of the protocol to change over time; however, at distinct intervals in time, it typically employs what is essentially a **permissioned** consensus protocol, with the access structure for the protocol at each interval determined by a decentralized staking mechanism. 
 
 Conversely, a permissioned consensus protocol can typically be converted to one based on proof of stake, simply by using a decentralized staking mechanism to define the access structure for the protocol at different intervals in time.
+
+[A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko | a16z crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM).
