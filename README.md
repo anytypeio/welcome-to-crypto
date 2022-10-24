@@ -22,6 +22,7 @@ This is a curated list of different crypto resources that will help you dive int
 
 ## Best Youtube channels
 1. [Economics Design](https://www.youtube.com/c/economicsdesign)
+1. [Finematics](https://www.youtube.com/c/Finematics)
 
 ## Where to go in crypto (for devs)? 
 ![Where to go in crypto](where_to_go_in_crypto.jpg)
