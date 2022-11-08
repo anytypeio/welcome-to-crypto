@@ -7,6 +7,7 @@ Very basic list to start with.
 * [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 
 ## Web3
+* [Use Web3 resources](https://www.useweb3.xyz)
 * [Web 3 by Vastrik](https://vas3k.ru/blog/web3/)
 * [Unstoppable Web by Vastrik](https://vas3k.ru/blog/unstoppable_web/)
 
