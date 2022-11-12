@@ -2,14 +2,17 @@
 
 Very basic list to start with. 
 
+## Start here
+[The Crypto Story by Bloomberg (Matt Levine)](https://www.bloomberg.com/features/2022-the-crypto-story/#xj4y7vzkg)
+
 ## Notable papers
 * [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html)
 * [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 
 ## Web3
 * [Use Web3 resources](https://www.useweb3.xyz)
-* [Web 3 by Vastrik](https://vas3k.ru/blog/web3/)
-* [Unstoppable Web by Vastrik](https://vas3k.ru/blog/unstoppable_web/)
+* [Web 3 by Vastrik (IN RUSSIAN)](https://vas3k.ru/blog/web3/)
+* [Unstoppable Web by Vastrik (IN RUSSIAN)](https://vas3k.ru/blog/unstoppable_web/)
 
 ## Ethereum
 * [Ethereum.org Learn - start here](https://ethereum.org/en/learn/) 
